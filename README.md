@@ -114,7 +114,9 @@ cap.release()
 
 
 ### ii) Display the video
-<img width="651" height="488" alt="image" src="https://github.com/user-attachments/assets/17a84ff1-153f-481b-a3b5-732da9c7829b" />
+<img width="627" height="481" alt="image" src="https://github.com/user-attachments/assets/3bec9223-33eb-4572-a379-14a182379749" />
+
+
 
 
 
